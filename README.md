@@ -69,4 +69,4 @@ cabal run worms-game
 
 ## Authors
 
-Developed in collaboration with @Totsugeeki for the Laboratórios de Informática course at **Universidade do Minho**, 2025–2026.
+Developed in collaboration with [Totsugeeki](https://github.com/totsugeeki) for the Laboratórios de Informática course at **Universidade do Minho**, 2025–2026.
